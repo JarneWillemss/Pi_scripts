@@ -1,4 +1,4 @@
-#deze code is geschreven door Xandro Van de Voorde!
+
 import wiringpi
 import time
 
